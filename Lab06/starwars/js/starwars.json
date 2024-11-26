@@ -1,0 +1,56 @@
+[
+  {
+    "path": "../img/sw_c3po.jpeg",
+    "title": "C-3PO",
+    "description": "C-3PO is a droid programmed for etiquette and protocol, built by the heroic Jedi Anakin Skywalker, and a constant companion to astromech R2-D2.",
+    "position": "50%"
+  },
+  {
+    "path": "../img/sw_dartvader.jpeg",
+    "title": "Darth Vader",
+    "description": "Discovered as a slave on Tatooine by Qui-Gon Jinn and Obi-Wan Kenobi, Anakin Skywalker had the potential to become one of the most powerful Jedi ever, and was believed by some to be the prophesied Chosen One who would bring balance to the Force.",
+    "position": "-70%"
+  },
+  {
+    "path": "../img/sw_droid.jpeg",
+    "title": "Explorer Droid",
+    "description": "An explorer droid was a type of droid that assisted individuals in remote or dangerous locations.",
+    "position": "center"
+  },
+  {
+    "path": "../img/sw_jabbathehut.jpeg",
+    "title": "Jabba The Hut",
+    "description": "Jabba the Hutt was one of the galaxy's most powerful gangsters, with far-reaching influence in both politics and the criminal underworld.",
+    "position": "center"
+  },
+  {
+    "path": "../img/sw_lambdashuttle.jpeg",
+    "title": "Lambda Shuttle",
+    "description": "Lambda-class shuttle, Imperial Lambda, Imperial Transport or the Imperial Shuttle, was a multi-purpose transport with a trihedral foil design used by the Galactic Empire.",
+    "position": "center"
+  },
+  {
+    "path": "../img/sw_padme.jpeg",
+    "title": "Padme",
+    "description": "Padmé Amidala was a courageous, hopeful leader, serving as Queen and then Senator of Naboo.",
+    "position": "70%"
+  },
+  {
+    "path": "../img/sw_r2d2.jpeg",
+    "title": "R2D2",
+    "description": "A resourceful astromech droid, R2-D2 served Padmé Amidala, Anakin Skywalker and Luke Skywalker in turn, showing great bravery in rescuing his masters and their friends from many perils.",
+    "position": "41%"
+  },
+  {
+    "path": "../img/sw_stormtrooper.jpeg",
+    "title": "Stormtrooper",
+    "description": "Stormtroopers are the shock troops/space marines of the autocratic Galactic Empire, under the leadership of Emperor Palpatine and his enforcers.",
+    "position": "center"
+  },
+  {
+    "path": "../img/sw_tie.jpeg",
+    "title": "Tie",
+    "description": "Padmé Amidala was a courageous, hopeful leader, serving as Queen and then Senator of Naboo.",
+    "position": "70%"
+  }
+]
