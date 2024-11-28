@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="../CSS/styles.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="../JS/script.js"></script>
+    <link rel="apple-touch-icon" sizes="180x180" href="../IMAGES/favicon2/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../IMAGES/favicon2/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../IMAGES/favicon2/favicon-16x16.png">
+    <link rel="manifest" href="../IMAGES/favicon2/site.webmanifest">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="contact">
+            <h1>Contact Me</h1>
+            <form id="contact-form">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea>
+
+                <button type="submit">Send</button>
+            </form>
+            <p id="click-count">Button has been clicked 0 times</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Aybuke Colak. All rights reserved.</p>
+    </footer>
+</body>
+</html>
